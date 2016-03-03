@@ -1,0 +1,17 @@
+
+PassengerId;Survived;Pclass;Name;Sex;Age;SibSp;Parch;Ticket;Fare;Cabin;Embarked
+1;0;3;Braund, Mr. Owen Harris;male;22;1;0;A/5 21171;7.2500;NaN;S
+2;1;1;Cumings, Mrs. John Bradley (Florence Briggs Th...;female;38;3;0;PC 17599;71.2833;C85;C
+3;1;3;Heikkinen, Miss. Laina;female;26;0;0;STON/O2. 3101282;7.9250;NaN;S
+4;1;1;Futrelle, Mrs. Jacques Heath (Lily May Peel);female;35;2;0;113803;53.1000;C123;S
+5;0;2;Allen, Mr. William Henry;male;20;2;0;373450;8.0500;NaN;S
+6;1;2;Futrelle, Mrs.h (Leel);female;32;1;0;113803;53.1000;C123;S
+7;0;3;Allen, Mr. Wm Henry;male;31;0;0;373450;8.0500;NaN;S
+8;1;2;Fuelle, Mrs. ques Heath (eel);female;25;3;0;113803;53.1000;C123;S
+9;0;3;Allen, Mr. Willm Henry;male;15;0;0;373450;8.0500;NaN;S
+10;1;1;Fuwlle, Mr Jacques Heath (lPeel);female;33;1;0;113803;53.1000;C123;S
+11;0;2;Alwn, Mr. Wilnry;male;32;0;0;373450;8.0500;NaN;S
+12;1;1;Futwe, Mrs.cques Heath (Lily);female;31;1;0;113803;53.1000;C123;S
+13;0;3;AllwMr. Wwliay;male;30;0;0;373450;8.0500;NaN;S
+14;1;2;Futrw, Mrs. ques Heath (il);female;40;1;0;113803;53.1000;C123;S
+15;0;2;Allewr. Wiy;male;30;0;0;373450;8.0500;NaN;S
